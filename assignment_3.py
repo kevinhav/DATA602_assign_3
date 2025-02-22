@@ -109,7 +109,7 @@ main()
 #          1/30 + 2/29 + 3/28 ............. + 30/1
 
 
-def factorial_fractions():
+def inter_fractions():
 
     # initiate variables
     num = 1
@@ -126,7 +126,7 @@ def factorial_fractions():
 
     return None
 
-factorial_fractions()
+inter_fractions()
 
 
 # ## Q6
